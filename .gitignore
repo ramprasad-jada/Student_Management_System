@@ -1,0 +1,19 @@
+
+# Python files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secret environment files
+.env
+
+# React files
+node_modules/
+dist/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
